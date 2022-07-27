@@ -9,12 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "magic-sdk": "^8.1.1",
+    "moralis": "^1.9.1",
     "next": "12.2.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-moralis": "^1.4.0",
+    "web3uikit": "^0.1.163"
   },
   "devDependencies": {
     "eslint": "8.20.0",
-    "eslint-config-next": "12.2.3"
+    "eslint-config-next": "12.2.3",
+    "prettier": "^2.7.1"
   }
 }
